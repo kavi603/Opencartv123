@@ -10,8 +10,8 @@
 		
 		<classes>
 			<class name="testcases.BaseClass" />
-			<!--->class name="testcases.Tc001_AccountRegistrationTest" />-->
-			<!---<class name="testcases.Tc002_LoginTest" />-->
+			<class name="testcases.Tc001_AccountRegistrationTest" />
+			<class name="testcases.Tc002_LoginTest" />
 			    <class name="testcases.Tc0003_LoginDDT" />
 			      
 		</classes>

@@ -1,0 +1,37 @@
+19:25:04.461 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Starting Tc001_AccountRegistrationTest* 
+19:25:04.794 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my account link* 
+19:25:06.050 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my register link* 
+19:25:06.068 [main] INFO  testcases.Tc001_AccountRegistrationTest - providing customer details 
+19:25:12.915 [main] INFO  testcases.Tc001_AccountRegistrationTest - validating expected message 
+19:25:13.095 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Finished Tc001_AccountRegistrationTest* 
+19:25:25.788 [main] INFO  testcases.Tc002_LoginTest - *******starting Tc0002_LoginTest
+19:25:29.807 [main] INFO  testcases.Tc002_LoginTest - ********* finished Tc_002_LoginTest*****
+21:12:49.826 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:13:58.871 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:14:26.722 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:15:44.962 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:18:51.237 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:18:51.797 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace2025\shubham\Opencartv123\groping.xml
+
+21:19:08.658 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Starting Tc001_AccountRegistrationTest* 
+21:19:09.837 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my account link* 
+21:19:11.015 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my register link* 
+21:19:11.031 [main] INFO  testcases.Tc001_AccountRegistrationTest - providing customer details 
+21:19:15.389 [main] INFO  testcases.Tc001_AccountRegistrationTest - validating expected message 
+21:19:15.535 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Finished Tc001_AccountRegistrationTest* 
+21:19:30.310 [main] INFO  testcases.Tc002_LoginTest - *******starting Tc0002_LoginTest
+21:19:34.317 [main] INFO  testcases.Tc002_LoginTest - ********* finished Tc_002_LoginTest*****
+21:20:48.130 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\groping.xml"
+21:20:48.687 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\workspace2025\shubham\Opencartv123\groping.xml
+
+21:20:57.186 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Starting Tc001_AccountRegistrationTest* 
+21:20:57.616 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my account link* 
+21:20:58.668 [main] INFO  testcases.Tc001_AccountRegistrationTest - clicked on my register link* 
+21:20:58.673 [main] INFO  testcases.Tc001_AccountRegistrationTest - providing customer details 
+21:21:02.280 [main] INFO  testcases.Tc001_AccountRegistrationTest - validating expected message 
+21:21:02.354 [main] INFO  testcases.Tc001_AccountRegistrationTest - ******* Finished Tc001_AccountRegistrationTest* 
+21:21:13.669 [main] INFO  testcases.Tc002_LoginTest - *******starting Tc0002_LoginTest
+21:21:17.523 [main] INFO  testcases.Tc002_LoginTest - ********* finished Tc_002_LoginTest*****
+19:05:31.213 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\workspace2025\shubham\Opencartv123\master.xml"
